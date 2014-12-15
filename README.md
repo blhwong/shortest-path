@@ -1,5 +1,8 @@
 shortest-path
 =============
+Created by: Brandon Wong
+Creation Date: 12/2014
+
 implements directed acylic graphs
 
 computes the distance between each node through function CalculateRouteDistance
